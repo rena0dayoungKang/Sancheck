@@ -3,7 +3,7 @@
 <hr/>
 
 
-## 🖥️ 깃 규칙
+## 🖥️ 깃 규칙 
 각자 본인의 Branch 에 commit 후 테스트 진행 오류 없을 시 Main에 commit하기.  
 <hr/>
 
